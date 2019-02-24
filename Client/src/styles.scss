@@ -14,3 +14,22 @@ shadow{
 .section-container{
     padding: 30px;
 }
+
+.card-theme{
+    background-color: #191f26;
+    border: none;
+    border-radius: 2px;
+}
+
+.card-body-theme{
+    background-color: #494f56;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-container {
+    padding: 30px;
+}
